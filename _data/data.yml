@@ -65,29 +65,19 @@ education:
 projects:
     title: School Projects and Free Code Camp Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
       - title: Weather Site
         link: "http://www-ens.iro.umontreal.ca/~gagnonno/ift1144/tp2/pages/tp2.html"
-        tagline: ""
 
       - title: Form Page
         link: "https://codepen.io/noegag/full/PowQEYz"
-        tagline: ""
 
       - title: Informative Page
         link: "https://codepen.io/noegag/full/QWwaoEE"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Conversion Calculations and Restaurant Menu
         link: "https://codepen.io/noegag/full/ExPWVrL"
-        tagline: ""
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
