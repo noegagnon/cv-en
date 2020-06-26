@@ -43,6 +43,11 @@ education:
       time: 2019 - 2020
       details: |
 
+    - degree: Responsive Web Design 
+      university: freeCodeCamp
+      time: 2020
+      details: <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design Certification </a>|
+
     - degree: Graduate Studies in Criminology
       university: University of Montreal
       time: 2018 - 2019
