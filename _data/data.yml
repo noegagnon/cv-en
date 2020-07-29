@@ -51,8 +51,8 @@ education:
       university: freeCodeCamp
       time: 2020
       details: |
-        Certificates: \n<a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design Certification </a> 
-        \n<a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">Certificat JavaScript Algorithms and Data Structures</a>
+        Certificates: 1)<a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design </a> 
+        2)<a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank"> JavaScript Algorithms and Data Structures</a>
 
     - degree: Graduate Studies in Criminology
       university: University of Montreal
