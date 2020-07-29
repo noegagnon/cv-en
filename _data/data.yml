@@ -37,11 +37,15 @@ sidebar:
 
       - item: Theater
 
+      - item: Reading
+
+
 education:
     - degree: Certificate in Computer Sciences
       university: University of Montreal
       time: 2019 - 2020
       details: |
+      Computer Skills: Node.js, Java, JavaScript, HTML, CSS, SQL, C# and  C++ 
 
     - degree: Responsive Web Design 
       university: freeCodeCamp
@@ -56,8 +60,18 @@ education:
     - degree: Bachelor in Security and Police Studies
       university: University of Montreal
       time: 2015 - 2018
+      details: Student Exchange in Criminal Justice at the California State University of San Bernardino |
+
+    - degree: Civil Engineering
+      university: Polytechnique of Montreal
+      time: 2014
       details: |
-    
+
+    - degree: Natural Sciences
+      university: Cegep Saint-Jerome
+      time: 2012-2014
+      details: |
+
 projects:
     title: University & freeCodeCamp Projects
     intro: >
@@ -79,43 +93,36 @@ projects:
         link: "https://codepen.io/noegag/full/QWwaoEE"
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Translator
+      time: 2019 - Present
+      company: Airfill
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+
+    - role: Transcriber
+      time: 2019 - Present
+      company: Appen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+
+    - role: Intern
+      time: 2019
+      company: Royal Canadian Mounted Police
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Intern at the Organized Crime Investigation Unit
+
+    - role: Digital clerk
+      time: 2016
+      company: Tact Group
+      details: |
+
+    - role: Receptionist
+      time: 2015
+      company: Atlantide Camping
+      details: |
+
+    - role: Telephonist
+      time: 2013-2014
+      company: Milano Pizzeria
+      details: |
 
 skills:
     title: Skills &amp; Proficiency
@@ -128,6 +135,9 @@ skills:
         level: 80%
 
       - name: Java
+        level: 70%
+
+      - name: SQL
         level: 70%
 
       - name: C#
