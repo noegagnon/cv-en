@@ -48,11 +48,6 @@ education:
       time: 2020
       details: <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design Certification </a>|
 
-    - degree: JavaScript Algorithms and Data Structures 
-      university: freeCodeCamp
-      time: 2020
-      details: <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and Data Structures Certification </a>|
-
     - degree: Graduate Studies in Criminology
       university: University of Montreal
       time: 2018 - 2019
@@ -62,8 +57,7 @@ education:
       university: University of Montreal
       time: 2015 - 2018
       details: |
-
-
+    
 projects:
     title: University & freeCodeCamp Projects
     intro: >
@@ -83,6 +77,45 @@ projects:
 
       - title: Informative Page
         link: "https://codepen.io/noegag/full/QWwaoEE"
+
+experiences:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 
 skills:
     title: Skills &amp; Proficiency
