@@ -51,8 +51,8 @@ education:
       university: freeCodeCamp
       time: 2020
       details: |
-        Certificates: <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design Certification </a> 
-        <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">Certificat JavaScript Algorithms and Data Structures</a>
+        Certificates: \n<a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design Certification </a> 
+        \n<a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">Certificat JavaScript Algorithms and Data Structures</a>
 
     - degree: Graduate Studies in Criminology
       university: University of Montreal
@@ -63,8 +63,9 @@ education:
       university: University of Montreal
       time: 2015 - 2018
       details: |
-        Student Exchange in Criminal Justice at the California State University of San Bernardino
-        
+        Student Exchange of one semester at the 
+        California State University of San Bernardino
+
     - degree: Civil Engineering
       university: Polytechnique of Montreal
       time: 2014
@@ -108,9 +109,8 @@ experiences:
 
     - role: Intern
       time: 2019
-      company: Royal Canadian Mounted Police
+      company: Royal Canadian Mounted Police (RCMP), Organized Crime Investigation Unit
       details: |
-        Intern at the Organized Crime Investigation Unit
 
     - role: Digital clerk
       time: 2016
