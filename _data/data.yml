@@ -45,15 +45,13 @@ education:
       university: University of Montreal
       time: 2019 - 2020
       details: |
-        Node.js, Java, JavaScript, HTML, CSS, SQL, C# and  C++  
 
     - degree: Responsive Web Design and JavaScript Algorithms and Data Structures
       university: freeCodeCamp
       time: 2020
       details: |
-        Certificates:
-          - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design </a> 
-          - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and Data Structures</a>
+          - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design Certificate</a> 
+          - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and Data Structures Certificate</a>
 
     - degree: Graduate Studies in Criminology
       university: University of Montreal
@@ -64,8 +62,7 @@ education:
       university: University of Montreal
       time: 2015 - 2018
       details: |
-        Student Exchange of one semester at the
-        California State University of San Bernardino
+        Student Exchange of one semester at the California State University of San Bernardino
 
     - degree: Civil Engineering
       university: Polytechnique of Montreal
@@ -114,7 +111,7 @@ experiences:
       company: Royal Canadian Mounted Police (RCMP), Organized Crime Investigation Unit
       details: |
 
-    - role: Digital clerk
+    - role: Digital Clerk
       time: 2016
       company: Tact Group
       details: |
