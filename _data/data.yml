@@ -51,8 +51,8 @@ education:
       university: freeCodeCamp
       time: 2020
       details: |
-        Certificates: 1)<a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design </a> 
-        2)<a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank"> JavaScript Algorithms and Data Structures</a>
+        Certificates: 1) <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design </a> 
+        2) <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and Data Structures</a>
 
     - degree: Graduate Studies in Criminology
       university: University of Montreal
@@ -63,7 +63,7 @@ education:
       university: University of Montreal
       time: 2015 - 2018
       details: |
-        Student Exchange of one semester at the 
+        Student Exchange of one semester at the
         California State University of San Bernardino
 
     - degree: Civil Engineering
@@ -101,6 +101,7 @@ experiences:
       time: 2019 - Present
       company: Airfill
       details: |
+        From English to French
 
     - role: Transcriber
       time: 2019 - Present
