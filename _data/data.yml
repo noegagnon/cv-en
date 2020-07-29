@@ -45,12 +45,14 @@ education:
       university: University of Montreal
       time: 2019 - 2020
       details: |
-      Computer Skills: Node.js, Java, JavaScript, HTML, CSS, SQL, C# and  C++ 
+        Node.js, Java, JavaScript, HTML, CSS, SQL, C# and  C++  
 
-    - degree: Responsive Web Design 
+    - degree: Responsive Web Design and JavaScript Algorithms and Data Structures
       university: freeCodeCamp
       time: 2020
-      details: <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design Certification </a>|
+      details: |
+        Certificates: <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design Certification </a> 
+        <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">Certificat JavaScript Algorithms and Data Structures</a>
 
     - degree: Graduate Studies in Criminology
       university: University of Montreal
@@ -60,8 +62,9 @@ education:
     - degree: Bachelor in Security and Police Studies
       university: University of Montreal
       time: 2015 - 2018
-      details: Student Exchange in Criminal Justice at the California State University of San Bernardino |
-
+      details: |
+        Student Exchange in Criminal Justice at the California State University of San Bernardino
+        
     - degree: Civil Engineering
       university: Polytechnique of Montreal
       time: 2014
