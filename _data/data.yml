@@ -45,14 +45,14 @@ education:
       university: University of Montreal
       time: 2019 - 2020
       details: |
-      Obtaining a Mention of excellence
+          - Obtaining a Mention of excellence
 
     - degree: Responsive Web Design and JavaScript Algorithms and Data Structures
       university: freeCodeCamp
       time: 2020
       details: |
-      - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design Certificate</a> 
-      - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and Data Structures Certificate</a>
+          - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design Certificate</a> 
+          - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and Data Structures Certificate</a>
 
     - degree: Graduate Studies in Criminology
       university: University of Montreal
