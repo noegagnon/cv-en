@@ -47,12 +47,13 @@ education:
       details: |
           - Obtaining a Mention of Excellence
 
-    - degree: Responsive Web Design and JavaScript Algorithms and Data Structures
+    - degree: Responsive Web Design, JavaScript Algorithms and Data Structures, APIs and Microservices
       university: freeCodeCamp
       time: 2020
       details: |
           - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/responsive-web-design" target="_blank">Responsive Web Design Certificate</a> 
           - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and Data Structures Certificate</a>
+          - <a href="https://www.freecodecamp.org/certification/fcc048ff84e-2260-4043-b930-b37e6fe7a77f/apis-and-microservices" target="_blank">APIs and Microservices Certificate</a>
 
     - degree: Graduate Studies in Criminology
       university: University of Montreal
